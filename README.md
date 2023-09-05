@@ -6,7 +6,7 @@ Tic-Tac-Toe is a classic two-player game in which players take turns marking a 3
 
 ## Features
 
-- **Player vs. Computer:** Play against an AI opponent that makes smart moves based on your moves.
+- **Player vs. Computer:** Play against an opponent that makes smart moves based on your moves.
 
 - **Winning Logic:** The game includes logic to determine the winner and highlight the winning combination of cells.
 
